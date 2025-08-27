@@ -1,0 +1,11 @@
+# Vercel
+.vercel
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.idea/
+.vscode/
